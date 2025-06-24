@@ -1,3 +1,3 @@
 # NewIntelligent
 
-/주민입니다~
+주민입니다~
